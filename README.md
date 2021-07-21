@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->   
 
 - 👀 I’m interested in **data science, machine learning**
-- 👯 I’m looking to collaborate on **open- source projects**
+- 👯 I’m looking to collaborate on **open source projects**
 - ⚡ Languages: **R, Python**
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: **sevimozinan1@gmail.com**
